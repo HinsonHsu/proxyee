@@ -110,6 +110,7 @@ public class HttpProxyServer {
   }
 
   public void start(int port) {
+    System.out.println("ready to start port=" + port);
     init();
     bossGroup = new NioEventLoopGroup(serverConfig.getBossGroupThreads());
     workerGroup = new NioEventLoopGroup(serverConfig.getWorkerGroupThreads());

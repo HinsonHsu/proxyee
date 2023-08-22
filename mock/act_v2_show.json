@@ -1,0 +1,59 @@
+{
+    "code": "A00000",
+    "msg": "成功",
+    "data":
+    [
+        {
+            "interfaceCode": "938e127a50a96a6f",
+            "interfaceData":
+            {
+                "respCode": "A00000",
+                "respMsg": "成功",
+                "respData":
+                {
+                    "strategyCode": "80594b3894372aca",
+                    "type": 429,
+                    "validPeriod": null,
+                    "covers":
+                    [
+                        {
+                            "code": "904b7b6b97c2a4c2",
+                            "detail":
+                            {
+                                "pic1": "http://pic1.iqiyipic.com/qiyue2.0/20230630/75db2ec50781f14c6de44f3b1a27a7cd.jpg",
+                                "text3": "",
+                                "text1": "",
+                                "text2": "",
+                                "linkType":
+                                {
+                                    "vipProduct": "1",
+                                    "autoRenew": "3",
+                                    "type": "5",
+                                    "vipCashierType": "vip",
+                                    "marketExtendContent": "%7B%22targetVipType%22%3A1%7D"
+                                },
+                                "pic2": "http://static-s.iqiyi.com/common/20221208/qiyue2.0/2f/5f/4cee2ecd9d424ab8b5d710ee6d81a27b6217251630033896071.png",
+                                "pic3": ""
+                            },
+                            "fc": "83d4f4f761c36566",
+                            "fv": "",
+                            "rpage": "interact_938e127a50a96a6f_80594b3894372aca_904b7b6b97c2a4c2",
+                            "pingback":
+                            {
+                                "ext":
+                                {
+                                    "rs": "2",
+                                    "sendRedPacketStatus": 0
+                                },
+                                "e": "b1c618a35c6c4ed6a2322b4a6768d085",
+                                "bkt": null,
+                                "r_area": "ms-coupon-rec"
+                            },
+                            "sendRedPacketStatus": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
